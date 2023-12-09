@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Background = () => {
   return (
     <>
@@ -10,7 +8,7 @@ const Background = () => {
         Organize.
       </h1>
     </>
-  )
-}
+  );
+};
 
-export default Background
+export default Background;
